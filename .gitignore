@@ -1,0 +1,10 @@
+# Secrets
+.env
+
+# Databases
+*.db
+*.db-journal
+
+# Python
+__pycache__/
+*.pyc
